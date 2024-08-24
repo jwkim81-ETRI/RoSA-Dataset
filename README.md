@@ -19,9 +19,9 @@ with corresponding labeling data to contribute to the field.
 
 ## The results of RoSA based Segmentation
 Result
-```
+
 ![image](https://github.com/user-attachments/assets/120ad3b1-bd09-4c68-89f0-d38b7e1da064)
 
 
 ![image](https://github.com/user-attachments/assets/f54ab898-5776-4fa9-bcbc-cb9df8794370)
-```
+
